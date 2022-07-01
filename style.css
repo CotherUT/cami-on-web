@@ -1,9 +1,15 @@
-body{
+header{
+    text-align: right;
+}
+.header_img{
+    width: 100%;
+}
+.media{
+    width: 5%;
+}
+h1{
     text-align: center;
 }
 img{
-    width: 100%;
-}
-.header_img{
     width: 100%;
 }
